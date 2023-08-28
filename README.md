@@ -76,5 +76,3 @@ git branch navigate - git checkout branch name - git checkout feature1
 1. github project rough copy - goto github -find porject - select frok - fork situated between star and watch
  <br />
 2. write and modified code and then crate pull request 
-
-
