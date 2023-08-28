@@ -1,22 +1,22 @@
 # githubCommand
-<br>
+<br//>
 git config command - git config user.name "khairul2007"
-<br>
+<br/>
 git config email command - git config user.email "khairul@gmail.com"
-<br>
+<br/>
 git clone - git clone URL address such as - git clone https://github.com/khairul2007/react.git
-<br>
+<br/>
 git status - display the state of the code - git status
-<br>
+<br/>
 see normal files - ls 
-<br>
+<br/>
 see hides file/all files - ls -a 
-<br>
+<br/>
 git add - git add .
-<br>
+<br/>
 git commit - git commit -m "some message"
-<br>
+<br/>
 git push - git push
-<br>
+<br/>
 
 
