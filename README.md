@@ -55,6 +55,26 @@ git branch navigate - git checkout branch name - git checkout feature1
 <br />
 3. git pull request - git pull origin main 
 <br />
-4. 
+<h1> marge conficts</h1>
+1. using pull request - git pull origin main 
+2. git marge - git marge 
+<br />
+<h1>undoing changes</h1>
+<br />
+1. stages changes for one file- git reset file name - git reset index.html 
+<br />
+2. stage changes for many files - git reset add . 
+<br />
+3. commited changes (for 1 commit ) - git reset HEAD~1
+<br />
+4. commited changes (for many commites)- git reset <-commit hash-> - find git commit hash in git log - git reset 5fab707a390f04db0395ec281e0169ec86c07645
+<br />
+5. commited changes (for many commites) in vs code - git reset --hard 5fab707a390f04db0395ec281e0169ec86c07645
+<br />
+<h1> fork</h1>
+ <br />
+1. github project rough copy - goto github -find porject - select frok - fork situated between star and watch
+ <br />
+2. write and modified code and then crate pull request 
 
 
