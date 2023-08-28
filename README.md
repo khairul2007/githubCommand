@@ -43,7 +43,18 @@
 <br />
 git branch navigate - git checkout branch name - git checkout feature1 
 <br />
-
-
+9. git branch delete - git checkout -d branch name - git checkout -d feature1 
+<br />
+10. git push on branch - git push origin branch name - git push origin feature1 
+<br />
+<h1> git marge code </h1>
+<br />
+1. git compare commits, beach, files and more - git diff branch name - git diff main 
+<br />
+2. git marge - git marge branch name - git marge main 
+<br />
+3. git pull request - git pull origin main 
+<br />
+4. 
 
 
