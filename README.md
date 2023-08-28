@@ -30,6 +30,8 @@ git branch - git branch
 <br/>
 git reanme branch - git branch -M branch name such as - git branch -M main 
 <br />
+git push - git push origin main 
+<br />
 
 
 
