@@ -1,9 +1,9 @@
 # githubCommand
 <br/>
 <h1>git config</h1>
-1. git config command - git config user.name "khairul2007"
+1. git config command - git config user.name "myname"
 <br/>
-2. git config email command - git config user.email "khairul@gmail.com"
+2. git config email command - git config user.email "myemail@gmail.com"
 <br/>
 <h1>git clone</h1>
 1. git clone - git clone URL address such as - git clone https://github.com/khairul2007/react.git
