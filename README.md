@@ -6,7 +6,7 @@
 2. git config email command - git config user.email "myemail@gmail.com"
 <br/>
 <h1>git clone</h1>
-1. git clone - git clone URL address such as - git clone https://github.com/khairul2007/react.git
+1. git clone - git clone URL address such as - git clone https://github.com/k/react.git
 <br/>
 2. git status - display the state of the code - git status
 <br/>
