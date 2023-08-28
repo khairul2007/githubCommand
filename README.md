@@ -1,5 +1,5 @@
 # githubCommand
-<br//>
+<br/>
 git config command - git config user.name "khairul2007"
 <br/>
 git config email command - git config user.email "khairul@gmail.com"
