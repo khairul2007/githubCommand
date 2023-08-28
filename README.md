@@ -12,11 +12,14 @@ see normal files - ls
 <br/>
 see hides file/all files - ls -a 
 <br/>
-git add - git add .
+git add specific file - git add file name such as - git add index.html
+<br />
+git add all files - git add .
 <br/>
 git commit - git commit -m "some message"
 <br/>
-git push - git push
+git push - git push origin main
 <br/>
+
 
 
